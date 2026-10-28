@@ -189,7 +189,7 @@ This project is intended to use the **MIT License**. Include a `LICENSE` file co
 **Ahmed Rabbani**  
 n8n Automation Developer
 
-- **GitHub:** [Ahmed-Rabban](https://github.com/Ahmed-Rabban)
+- **GitHub:** [Ahmed-Rabban](https://github.com/Ahmed-Rabbani)
 - **LinkedIn:** [Ahmed Rabbani](https://www.linkedin.com/in/ahmed-rabbaniofficial)
 - **YouTube:** [Ahmed Automates](https://www.youtube.com/@Ahmed-Automates)
 
